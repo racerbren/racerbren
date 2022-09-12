@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @racerbren
 - 👀 I’m interested in sports, music, and creating new things
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python and algorithms
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: email
 
