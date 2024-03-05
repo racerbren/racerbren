@@ -1,5 +1,5 @@
 # Hello, my name is Brenden!
-**Software Engineer at CSULB**
+***Software Engineer at CSULB***
 
 ## Current Projects 🚀
 * [Jukebox2D](https://github.com/racerbren/Jukebox2D)
@@ -7,7 +7,7 @@
 
 ## Currently Learning 📚
 * Unreal Engine 5
-* OpenGL
+* OpenGL (GLM, GLAD)
 * SDL2
 
 ## Languages and Tools 🔨
@@ -20,9 +20,3 @@
 * Game Development
 * Networking and Sockets
 * Fishkeeping (marine life enthusiast 🐙)
-
-
-## Connect with Me 👥
-
-
-
