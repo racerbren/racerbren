@@ -2,6 +2,7 @@
 ***Software Engineer at CSULB***
 
 ## Current Projects 🚀
+* [Celeste Graphics Engine](https://github.com/racerbren/Celeste-Graphics-Engine)
 * [Jukebox2D](https://github.com/racerbren/Jukebox2D)
 * The Floor is Lava! (UE5)
 
