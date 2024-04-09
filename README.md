@@ -15,6 +15,7 @@
 * C++
 * Python
 * Unreal Engine 5
+* OpenGL, GLSL
 
 ## Ask me About 🔮
 * Computer Graphics
