@@ -1,22 +1,20 @@
-# Hello, my name is Brenden!
+ # Hello, my name is Brenden!
 ***Software Engineer at CSULB***
 
 ## Current Projects 🚀
 * [Rubik Rescue](https://github.com/racerbren/Rubik-Rescue)
-* [Celeste Graphics Engine](https://github.com/racerbren/Celeste-Graphics-Engine)
-* [Jukebox2D](https://github.com/racerbren/Jukebox2D)
 * The Floor is Lava! (UE5)
 
 ## Currently Learning 📚
 * Unreal Engine 5
-* OpenGL (GLM, GLAD)
-* SDL2
+* Vulkan
+* OpenCV
 
 ## Languages and Tools 🔨
 * C++
 * Python
 * Unreal Engine 5
-* OpenGL, GLSL
+* OpenGL, GLSL, SDL2
 
 ## Ask me About 🔮
 * Computer Graphics
