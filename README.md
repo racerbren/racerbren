@@ -2,7 +2,7 @@
 ***Software Engineer at CSULB***
 
 ## Current Projects 🚀
-* [ToDo](https://github.com/jonathan4648/Senior-Project)
+* [ToDo](https://github.com/jonathan4648/Senior-Project) - Dynamic Daily Planner
 
 ## Currently Learning 📚
 * Unreal Engine 5
