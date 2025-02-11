@@ -11,7 +11,7 @@
 * OpenCV
 
 ## Languages and Tools 🔨
-[![](https://skillicons.dev/icons?i=cpp,py,c,react,js,unreal,godot,mongodb,firebasecmake&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,py,c,react,js,unreal,godot,mongodb,firebase,cmake&perline=5)](https://skillicons.dev)
 
 ## Ask me About 🔮
 * Computer Graphics
