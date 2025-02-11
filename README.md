@@ -12,6 +12,8 @@
 
 ## Languages and Tools 🔨
 [![](https://skillicons.dev/icons?i=cpp,py,c,react,js,unreal,godot,mongodb,firebase,cmake&perline=5)](https://skillicons.dev)
+![](https://github.com/wizard503/skill-icons/blob/main/icons/OpenGL-Light.svg)
+![](https://github.com/wizard503/skill-icons/blob/main/icons/Vulkan-Light.svg)
 
 ## Ask me About 🔮
 * Computer Graphics
