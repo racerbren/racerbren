@@ -2,8 +2,7 @@
 ***Software Engineer at CSULB***
 
 ## Current Projects 🚀
-* [Rubik Rescue](https://github.com/racerbren/Rubik-Rescue)
-* The Floor is Lava! (UE5)
+* [ToDo](https://github.com/jonathan4648/Senior-Project)
 
 ## Currently Learning 📚
 * Unreal Engine 5
