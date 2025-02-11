@@ -1,5 +1,5 @@
  # Hello, my name is Brenden!
-***Software Engineer at CSULB***
+***Computer Graphics Engineer at CSULB***
 
 ## Current Projects 🚀
 * [ToDo](https://github.com/jonathan4648/Senior-Project) - Dynamic Daily Planner
