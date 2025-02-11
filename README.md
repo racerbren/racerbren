@@ -11,9 +11,11 @@
 * OpenCV
 
 ## Languages and Tools 🔨
-[![](https://skillicons.dev/icons?i=cpp,py,c,react,js,unreal,godot,mongodb,firebase,cmake&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,py,c,unreal)](https://skillicons.dev)
 <img src="https://github.com/wizard503/skill-icons/blob/main/icons/OpenGL-Light.svg" alt="opengl" width="50"/>
-<img src="https://github.com/wizard503/skill-icons/blob/main/icons/Vulkan-Light.svg" alt="vulkan" width="50"/>
+<img src="https://github.com/wizard503/skill-icons/blob/main/icons/Vulkan-Light.svg" alt="vulkan" width="50"/> \
+[![](https://skillicons.dev/icons?i=godot,react,js,mongodb,firebase,cmake)](https://skillicons.dev)
+
 
 ## Ask me About 🔮
 * Computer Graphics
