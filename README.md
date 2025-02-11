@@ -11,10 +11,7 @@
 * OpenCV
 
 ## Languages and Tools 🔨
-* C++
-* Python
-* Unreal Engine 5
-* OpenGL, GLSL, SDL2
+[![](https://skillicons.dev/icons?i=cpp,py,c,react,js,unreal,godot,mongodb,firebasecmake&perline=5)](https://skillicons.dev)
 
 ## Ask me About 🔮
 * Computer Graphics
